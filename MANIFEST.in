@@ -1,0 +1,3 @@
+include *.txt *.ini *.cfg *.rst *.md
+recursive-include suma *.ico *.png *.css *.gif *.jpg *.txt *.js *.html *.eot *.svg *.ttf *.woff *.otf *.csv *.py *.gz *.pdf *.json INFO *.mako
+

@@ -1,0 +1,17 @@
+.idea
+*.egg-info
+*.pyc
+*.swp
+*.swo
+*.egg-info
+build/
+.coverage
+.tags
+.DS_Store
+__pycache__
+ghostdriver.log
+/storage
+.tox
+.cache
+.eggs
+/dist
