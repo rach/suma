@@ -50,6 +50,7 @@ install_requires = [
     'goose-extractor==1.0.25',
     'celery[redis]==3.1.18',
     'requests==2.8.1',
+    'PasteScript==2.0.2',
     'selenium==2.47.1'
 ]
 

@@ -116,14 +116,14 @@ After installing and configuring Suma, you can create the required tables and sc
 
 ###Running Suma
 
-We provide 2 examples of config files with already a section to run `uWSGI` with some basic settings. First, you need to install [uWSGI](https://pypi.python.org/pypi/uWSGI) and [https://pypi.python.org/pypi/PasteScript]() 
+We provide 2 examples of config files with already a section to run `uWSGI` with some basic settings. First, you need to install [uWSGI](https://pypi.python.org/pypi/uWSGI). 
 
     # activating the virtualenv
     source ~/.virtualenv/suma/bin/activate
 
 
     # installing dependencies to run suma 
-    pip install PasteScript uwsgi
+    pip install uwsgi
 
 
     # running the private api on the port 8081
