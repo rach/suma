@@ -69,7 +69,7 @@ develop_requires = [
     'waitress',
     'pyramid_debugtoolbar',
     'tox',
-    'pytest-cov', # before pytest, more info why. See bug #196 in setuptools 
+    'pytest-cov',  # before pytest, more info why. See bug #196 in setuptools 
     'pytest',
     'Paste==2.0.2',
     'bumpversion',
