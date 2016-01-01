@@ -14,6 +14,5 @@ def get_config(global_config, **settings):
     config.include('suma.web.settings.service')
     config.include('suma.web.routes')
     config.include('suma.web.settings.adapter')
-    config.include('suma.web.settings.renderer')
     config.scan('suma.web')
     return config
