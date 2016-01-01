@@ -83,7 +83,7 @@ dependency_links = [
 
 setup(
     name='suma',
-    version='0.1.0',
+    version='0.1.1',
     description=short_desc,
     long_description=open('description.rst').read() + '\n\n' + open('CHANGES.txt').read(),
     cmdclass={'test': ToxCommand, },
